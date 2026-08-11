@@ -1,0 +1,17 @@
+{
+  "name": "gorest-1",
+  "variables": [
+    {
+      "name": "Authorization",
+      "value": "Bearer ee5f32b07943638e8bda88ab786ba81ab8f4d8ea3b0ba0fd15ea365e11e32d08",
+      "type": "text",
+      "enabled": true,
+      "secret": true
+    }
+  ],
+  "info": {
+    "type": "bruno-environment",
+    "exportedAt": "2026-08-11T06:51:38.698Z",
+    "exportedUsing": "Bruno/v3.4.2"
+  }
+}
